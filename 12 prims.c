@@ -32,7 +32,7 @@ int main()
             printf("%d\t",graph[i][j]);
         }
     }
-    printf("\n\nTotal cost of minimum spanning tree: %d",totalcost);
+    printf("\n\nTotal cost of the minimum spanning tree: %d",totalcost);
     return 0;
 }
 

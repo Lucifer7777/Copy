@@ -4,7 +4,7 @@ int a[50];
 int main()
 {
     int i,n;
-    printf("Enter the no of elements :");
+    printf("Enter the number of elements :");
     scanf("%d",&n);
     printf("Enter the elements :");
     for(i=0;i<n;i++)

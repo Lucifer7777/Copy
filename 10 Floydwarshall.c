@@ -9,7 +9,7 @@ int G[10][10];
 void readGraph()
 {
   int i=0,j=0;
-  printf("\nEnter graph in matrix form\n");
+  printf("\nEnter the graph in matrix form\n");
   for(i=0;i<V;i++)
   {
     for(j=0;j<V;j++)
